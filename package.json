@@ -1,0 +1,11 @@
+{
+  "name": "20project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/irfanazizalamin/portfolio-challenge.git",
+  "author": "Irfan Aziz",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
